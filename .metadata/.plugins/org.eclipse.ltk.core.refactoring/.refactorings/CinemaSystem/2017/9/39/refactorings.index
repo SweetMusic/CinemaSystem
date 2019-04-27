@@ -1,0 +1,9 @@
+1506330393480	Copy compilation unit
+1506330492912	Encapsulate field 'user_id'
+1506331034175	Rename type 'admin'
+1506331040988	Rename type 'comment'
+1506331048254	Rename type 'movie'
+1506331057286	Rename type 'user'
+1506331093525	Encapsulate field 'movie_pic'
+1506583431588	Delete element
+1506585792597	Rename resource 'MyJsp.jsp'

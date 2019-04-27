@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;dao.LoginR&apos; to &apos;LoginA&apos;&#x0D;&#x0A;- Original project: &apos;MovieSystem&apos;&#x0D;&#x0A;- Original element: &apos;dao.LoginR&apos;&#x0D;&#x0A;- Renamed element: &apos;dao.LoginA&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;LoginR&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;dao{LoginR.java[LoginR" matchStrategy="1" name="LoginA" qualified="false" references="true" similarDeclarations="false" stamp="1510651891304" textual="false" version="1.0"/>
+</session>

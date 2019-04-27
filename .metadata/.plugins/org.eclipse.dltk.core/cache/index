@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ASCII"?>
+<cache:CacheIndex xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:cache="http://eclipse.org/dltk/cache_model" environment="org.eclipse.dltk.core.environment.localEnvironment">
+  <entries path="D:/WorkSpace/CinemaSystem/WebRoot/js/jquery.flexisel.js" timestamp="1506583341457" lastAccessTime="1506583913525"/>
+  <entries path="D:/WorkSpace/CinemaSystem/WebRoot/js/jquery.magnific-popup.js" timestamp="1506583341519" lastAccessTime="1506583913696"/>
+  <entries path="D:/WorkSpace/CinemaSystem/WebRoot/js/jquery.min.js" timestamp="1506583444514" lastAccessTime="1509345338452"/>
+  <entries path="D:/WorkSpace/MovieSystem/WebRoot/js/easing.js" timestamp="1509956786484" lastAccessTime="1510715179360"/>
+  <entries path="D:/WorkSpace/MovieSystem/WebRoot/js/jquery-1.9.0.min.js" timestamp="1509956786547" lastAccessTime="1510715179594"/>
+  <entries path="D:/WorkSpace/MovieSystem/WebRoot/js/jquery.nivo.slider.js" timestamp="1509956786562" lastAccessTime="1510715179757"/>
+  <entries path="D:/WorkSpace/MovieSystem/WebRoot/js/move-top.js" timestamp="1509956786578" lastAccessTime="1510715179879"/>
+</cache:CacheIndex>

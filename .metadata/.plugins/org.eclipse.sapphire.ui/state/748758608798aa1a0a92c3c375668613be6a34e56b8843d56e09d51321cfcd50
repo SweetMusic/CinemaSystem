@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<master-details-editor-page-state>
+    <content-outline>
+        <root>
+            <node>
+                <label>General Settings</label>
+                <expanded>true</expanded>
+            </node>
+            <node>
+                <label>Error Pages</label>
+                <selected>true</selected>
+            </node>
+        </root>
+        <ratio>0.29930555555555555</ratio>
+    </content-outline>
+</master-details-editor-page-state>
